@@ -1,0 +1,2 @@
+Definition: git status
+The git status command shows the state of the working directory and the staging area of a git repository. If using Jupyterlab IDE rather than terminal, you can check the git status by clicking the git button of the left bar and check the changes section provided that the git extension is installed. 
