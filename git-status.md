@@ -1,0 +1,3 @@
+Definition: git status
+git status is useful for checking which files in your local repository have been staged, changed but not staged, and which are unchanged. Using git status helps ensure that you are staging and committing the correct files.
+Jupyter Labs shows the status of your files under the 'Git' tab on the left side of the screen. It shows files in either 'Staged', 'Changed', or 'Untracked' status.
