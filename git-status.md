@@ -1,0 +1,2 @@
+Definition: git status
+The command git status is the equivalent of looking at the Changes section under the git tab on Jupyter Lab. It allows you to see which files have changes, which are being staged, and which are being tracked. 
