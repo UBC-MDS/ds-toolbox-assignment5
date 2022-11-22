@@ -1,0 +1,3 @@
+The git status command shows what state of the working directiory and staging area you are in. You can see what changes have been staged and what has not been changed as well as what files are not tracked. It is an inspection of the repository. You can see the difference between the index files and the current head commit
+
+You can access the same information provided by this command by looking at the Git function in Jupyter Lab IDE. it display the Branches, tags, changes and history. 
