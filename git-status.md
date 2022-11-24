@@ -1,0 +1,3 @@
+Definition: git status
+The git status command allows the user to view the current status of a repository's files in relation to git's version control functions. The user is able to see untracked files, files that have been changed since the previous commit, and files staged for commit.
+The user is able to see the same information in the Jupyter Lab IDE by accessing the repository, selecting the 'Git' tab from the left toolbar and selecting the 'Changes' tab. The files will appear in their respective git status categories.
