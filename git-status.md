@@ -1,0 +1,2 @@
+The git status command displays the state of the working directory and the staging area. Git status allows you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
+In the JupyterLab the same information is available in the History Tab i.e. it allows you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
