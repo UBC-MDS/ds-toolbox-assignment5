@@ -1,0 +1,2 @@
+# Definition: git status
+“git status” command shows the current state if the working directory, as well, the staging area. It is useful for monitoring tracked and untracked changes and files. This information can also be found using JupyterLab IDE. On the Git tab from the left sidebar in JupyterLAb, there is a section named “Changes” that displays staged, changed and untracked files.
