@@ -1,3 +1,3 @@
-Definition: git status
-The git status command is used to check the status(Untracked, Changed or Staged) of all the files in a repository. It is very useful to give the information to the grogrammer on which commands to use to continue the workflow. 
-git status command is not the only ways to check the status of the files. Using the JupyterLab IDE  is also another way. We can click Jupyter Git extension icon on the left hand side bar of the JupyterLab after cloning the remote repository from GitHub to create a local repository. And the status of the files are shown under Changes.
+# Definition: git status
+<p>The git status command is used to check the status(Untracked, Changed or Staged) of all the files in a repository. It is very useful to give the information to the grogrammer on which commands to use to continue the workflow. </p>
+<p>git status command is not the only ways to check the status of the files. Using the JupyterLab IDE  is also another way. We can click Jupyter Git extension icon on the left hand side bar of the JupyterLab after cloning the remote repository from GitHub to create a local repository. And the status of the files are shown under Changes.</p>
