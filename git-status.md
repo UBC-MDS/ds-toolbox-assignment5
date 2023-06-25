@@ -1,0 +1,2 @@
+Definition: git status
+When executed in the terminal, git status allows you to see the status of all files in the repository, and includes information on the necessary commands to continue your workflow if needed. This command also identifies existing merge conflicts and untracked files. Infomation for this command can be accessed via the command man git status.
