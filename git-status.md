@@ -1,0 +1,2 @@
+# Definition: git status
+Git status tracks uncommitted changes and understand how the project files are being tracked. It is a bridge between the add(staged) and the commit commands. We can access the same information by clicking the ***Git*** tab and ***Changes*** tab in JupyterLab IDE.
