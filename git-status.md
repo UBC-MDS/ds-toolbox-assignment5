@@ -1,0 +1,3 @@
+# Definition: git status
+
+Git status can tell us if any alterations we have made in the branch we are currently in (HEAD) have been committed locally, are being staged but have not yet been committed, or are untracked, and whether our branch commits have been pushed to the remote.  If using the IDE, we can see this information on the git tab to see files that are untracked, staged, etc., as well as whether or not the git push or pull buttons are highlighted (meaning that we are not up to date with the remote)
