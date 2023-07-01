@@ -1,0 +1,3 @@
+<h1>Defintion: git status</h1>
+git status shows you which files have been changed, and which of these changes have been commmitted. It also shows what branch you are currently working on, untracked files, and the files involved in a merge conflict, if one exists. git status also provides the commands to add, commit, and push changes.   
+To access this information in the Jupyter IDE, using the Git extension on the left bar, select the 'Changes' tab, ensuring that the correct repository and branch are selected.
