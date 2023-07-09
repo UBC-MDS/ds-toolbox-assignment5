@@ -1,0 +1,2 @@
+Definition: git status
+The git status command is used to display the current state of the Git repository. It provides information about which files have been modified, which files are staged for commit, and which files are untracked.
