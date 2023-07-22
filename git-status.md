@@ -1,0 +1,3 @@
+Definition: git status
+git status shows where you are in the repository and going, commit status (whether changes that are made have been commited) as well as if they are ready to be commited (staged or no) and whether your branch and main are merged or not
+if you were in jupyter IDE you can go to the side bar and click on Git which shows current repository status information that git status shows, such as stage information, commit information, location information (shows current repo and branch) etc.
