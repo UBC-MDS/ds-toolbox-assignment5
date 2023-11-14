@@ -1,0 +1,2 @@
+Definition: git status
+The git status command returns the branch HEAD is pointing to, a list of untracked files, and a list of files that are tracked but have been changed since the last commit and who's changes have not all been staged for committing. This helps users to keep their local repository clean by allowing them to easily identify which files need to be staged and which files need to be committed. In the JupyterLab IDE, the "Changes" tab of the git extension provides the same functionality. 
