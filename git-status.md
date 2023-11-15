@@ -1,0 +1,2 @@
+"Definition: Git Status"
+Git Status is a git command used to show what is happening in the working tree and the staging area. It gives a list of files that have been modified, staged, and untracked. It is also used to see what changes are staged for the next commit and which aren't.
