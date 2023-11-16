@@ -1,5 +1,6 @@
 # Definition: git status
 > Specifically, what is the git status command useful for?
+
 `The git status command shows the current status of the repository represented by the directory
 It shows the changes that have been made and the files that are being tracked`
 
