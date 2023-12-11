@@ -1,0 +1,3 @@
+Definition: git status
+
+git status shows whether or not there are differences between the branch and the remote repository. It shows us if everything is up to date, or if there are changes that have not been commited or push/pulled. It also shows us if changes have not been added. To do the same in jupyter lab, open the repository folder and go to the git tab. Then, click on changes to check the git status.
