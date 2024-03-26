@@ -1,0 +1,3 @@
+Definition: git status
+
+git status command is used to display the current state of the working directory and displays any untracked files to be added to the staging area. On the Jupyter Lab IDE git status of the working directory can be viewed by clicking the git icon on the left hand side of the screen then clicking 'changes' under 'current repository'. Under 'changes' you can see the staged, changed, and untracked files in the repository/branch. 
